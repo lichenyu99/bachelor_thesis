@@ -1,0 +1,11 @@
+{
+    "Name": "Play_combination_1",
+    "UniqueId": "a1907dab-4d3e-4d0a-9c02-622d817acf72",
+    "Description": "Used for combination -2F&+2D",
+    "StartupRules": [ "Manual", "Robot" ],
+    "Language": "javascript",
+    "BroadcastMode": "verbose",
+    "TimeoutInSeconds": 300,
+    "CleanupOnCancel": false,
+    "WriteToLog": false
+}
