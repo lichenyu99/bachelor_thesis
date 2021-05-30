@@ -12,7 +12,7 @@ function play_combination(data) {
         misty.Pause(1000);
         misty.DisplayImage("e_Rage2.jpg");
         misty.PlayAudio("youruinedmylife.wav");
-        misty.Pause(5000);
+        misty.Pause(4000);
         misty.DisplayImage("e_DefaultContent.jpg");
     }
 }
